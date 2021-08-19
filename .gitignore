@@ -3,6 +3,7 @@ kakaoapikey.txt
 roadapikey.txt
 guideSearchApi/
 data/
+password.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
