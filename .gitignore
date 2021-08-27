@@ -5,6 +5,7 @@ guideSearchApi/
 data/
 password.txt
 mysql.json
+exercise.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
